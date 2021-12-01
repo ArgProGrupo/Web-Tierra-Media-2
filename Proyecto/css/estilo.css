@@ -1,0 +1,26 @@
+:root {
+    --azul: #05668D;
+    --celeste: #427AA1;
+    --clarito: #EBF2FA;
+    --verde: #679436;
+    --verdeclaro: #A5BE00;
+    --amarillo: #F2B705;
+    --marron: #734B02;
+    --text-color: #AAAEBC;
+      
+  }
+  header nav figure img {
+      position: absolute;
+      left: 10px;
+      top: 10px;
+  }
+  .box {
+              display: flex;
+              justify-content: space-between;
+              background: var(--clarito);
+            }
+  .btn-primary {
+      
+      background: var(--marron);
+      
+          }
